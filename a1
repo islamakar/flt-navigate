@@ -1,0 +1,8 @@
+echo "# Flutter-_Navigate" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/islamakar/Flutter-_Navigate.git
+git push -u origin main
+                
